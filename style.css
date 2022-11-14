@@ -82,6 +82,9 @@ p{
     z-index: 2;
     transition: .5s;
 }
+#sineNav ul:hover{
+    background-color: #fab3c4;
+}
 nav ul li{
     list-style: none;
     margin: 50px 20px;
